@@ -8,7 +8,7 @@
 ![FastAPI](https://img.shields.io/badge/Backend-FastAPI-009688.svg)
 ![Snapdragon X Elite](https://img.shields.io/badge/Hardware-Snapdragon%20X%20Elite-red.svg)
 ![Qualcomm AI Hub](https://img.shields.io/badge/Runtime-Qualcomm%20AI%20Hub%20%2F%20GenieX-6f42c1.svg)
-![Hackathon](https://img.shields.io/badge/Snapdragon%C2%AE%20Multiverse%20Hackathon-Top%2050%20Team-success.svg)
+
 
 Built for the **Snapdragon® Multiverse Hackathon**
 ## Table of contents
