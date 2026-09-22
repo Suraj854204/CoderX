@@ -1,0 +1,60 @@
+2026-09-22 22:08:49 [INFO   ] [commit=-] coderx: Logging initialized — level=INFO, file=D:\CoderX\CoderX\backend\logs\coderx.log
+2026-09-22 22:08:50 [INFO   ] [commit=a9cd889] coderx.review_session: New review session started (commit=a9cd889).
+2026-09-22 22:08:50 [INFO   ] [commit=a9cd889] coderx.coderx.response_parser: [parse] Parsing 256 chars, 5 lines
+2026-09-22 22:08:50 [INFO   ] [commit=a9cd889] coderx.coderx.response_parser: [parse] Line 1 MATCHED: [CRITICAL] file.py:1
+2026-09-22 22:08:50 [INFO   ] [commit=a9cd889] coderx.coderx.response_parser: [parse] Line 5 MATCHED: [SUGGESTION] file.py:3
+2026-09-22 22:08:50 [INFO   ] [commit=a9cd889] coderx.coderx.response_parser: [parse] Total findings parsed: 2
+2026-09-22 22:08:50 [INFO   ] [commit=a9cd889] coderx.review_cache: [cache] STORE 33b366e9af99 (2 finding(s))
+2026-09-22 22:08:50 [INFO   ] [commit=a9cd889] coderx.review_session: New review session started (commit=a9cd889).
+2026-09-22 22:08:50 [INFO   ] [commit=a9cd889] coderx.review_cache: [cache] HIT  33b366e9af99 (2 finding(s) reused, no NPU call)
+2026-09-22 22:17:39 [INFO   ] [commit=-] coderx: Logging initialized — level=INFO, file=D:\CoderX\CoderX\backend\logs\coderx.log
+2026-09-22 22:17:39 [INFO   ] [commit=962aea6] coderx.review_session: New review session started (commit=962aea6).
+2026-09-22 22:17:39 [INFO   ] [commit=962aea6] coderx.coderx.response_parser: [parse] Parsing 256 chars, 5 lines
+2026-09-22 22:17:39 [INFO   ] [commit=962aea6] coderx.coderx.response_parser: [parse] Line 1 MATCHED: [CRITICAL] file.py:1
+2026-09-22 22:17:39 [INFO   ] [commit=962aea6] coderx.coderx.response_parser: [parse] Line 5 MATCHED: [SUGGESTION] file.py:3
+2026-09-22 22:17:39 [INFO   ] [commit=962aea6] coderx.coderx.response_parser: [parse] Total findings parsed: 2
+2026-09-22 22:17:39 [INFO   ] [commit=962aea6] coderx.review_cache: [cache] STORE 33b366e9af99 (2 finding(s))
+2026-09-22 22:17:39 [INFO   ] [commit=962aea6] coderx.review_session: New review session started (commit=962aea6).
+2026-09-22 22:17:39 [INFO   ] [commit=962aea6] coderx.review_cache: [cache] HIT  33b366e9af99 (2 finding(s) reused, no NPU call)
+2026-09-22 22:36:06 [INFO   ] [commit=-] coderx: Logging initialized — level=INFO, file=D:\CoderX\CoderX\backend\logs\coderx.log
+2026-09-22 22:36:07 [INFO   ] [commit=e43fc88] coderx.review_session: New review session started (commit=e43fc88).
+2026-09-22 22:36:07 [INFO   ] [commit=e43fc88] coderx.review_cache: [cache] HIT  33b366e9af99 (2 finding(s) reused, no NPU call)
+2026-09-22 22:36:07 [INFO   ] [commit=e43fc88] coderx.review_session: New review session started (commit=e43fc88).
+2026-09-22 22:36:07 [INFO   ] [commit=e43fc88] coderx.review_cache: [cache] HIT  33b366e9af99 (2 finding(s) reused, no NPU call)
+2026-09-22 22:36:36 [INFO   ] [commit=-] coderx: Logging initialized — level=INFO, file=D:\CoderX\CoderX\backend\logs\coderx.log
+2026-09-22 22:36:36 [INFO   ] [commit=-] coderx.coderx.response_parser: [parse] Parsing 15 chars, 1 lines
+2026-09-22 22:36:36 [INFO   ] [commit=-] coderx.coderx.response_parser: [parse] Found NO_ISSUES_FOUND marker and no parsed findings — confirmed clean
+2026-09-22 22:36:36 [INFO   ] [commit=-] coderx.coderx.response_parser: [parse] Total findings parsed: 0
+2026-09-22 22:36:36 [INFO   ] [commit=-] coderx.coderx.response_parser: [parse] Parsing 54 chars, 1 lines
+2026-09-22 22:36:36 [INFO   ] [commit=-] coderx.coderx.response_parser: [parse] Line 1 MATCHED: [CRITICAL] app.py:10
+2026-09-22 22:36:36 [INFO   ] [commit=-] coderx.coderx.response_parser: [parse] Total findings parsed: 1
+2026-09-22 22:36:36 [INFO   ] [commit=-] coderx.review_cache: [cache] STORE 5afe8b397d80 (1 finding(s))
+2026-09-22 22:36:36 [INFO   ] [commit=-] coderx.review_cache: [cache] HIT  5afe8b397d80 (1 finding(s) reused, no NPU call)
+2026-09-22 22:36:36 [INFO   ] [commit=-] coderx.review_cache: [cache] STORE 5afe8b397d80 (1 finding(s))
+2026-09-22 22:36:36 [INFO   ] [commit=-] coderx.review_cache: [cache] Invalidated ALL 1 entr(y/ies)
+2026-09-22 22:36:37 [INFO   ] [commit=-] coderx.review_cache: [cache] STORE 2d73a56c6966 (1 finding(s))
+2026-09-22 22:36:37 [INFO   ] [commit=-] coderx.review_cache: [cache] HIT  2d73a56c6966 (1 finding(s) reused, no NPU call)
+2026-09-22 22:36:37 [INFO   ] [commit=-] coderx.review_cache: [cache] STORE 5afe8b397d80 (1 finding(s))
+2026-09-22 22:36:37 [INFO   ] [commit=-] coderx.review_cache: [cache] STORE 028b28684c83 (1 finding(s))
+2026-09-22 22:36:37 [INFO   ] [commit=-] coderx.review_cache: [cache] HIT  028b28684c83 (1 finding(s) reused, no NPU call)
+2026-09-22 22:36:39 [INFO   ] [commit=-] coderx.ws_broadcaster: WebSocket server listening on ws://0.0.0.0:8765
+2026-09-22 22:37:18 [INFO   ] [commit=-] coderx: Logging initialized — level=INFO, file=D:\CoderX\CoderX\backend\logs\coderx.log
+2026-09-22 22:37:19 [INFO   ] [commit=75c34e5] coderx.review_session: New review session started (commit=75c34e5).
+2026-09-22 22:37:19 [INFO   ] [commit=75c34e5] coderx.review_cache: [cache] HIT  33b366e9af99 (2 finding(s) reused, no NPU call)
+2026-09-22 22:37:19 [INFO   ] [commit=75c34e5] coderx.review_session: New review session started (commit=75c34e5).
+2026-09-22 22:37:19 [INFO   ] [commit=75c34e5] coderx.review_cache: [cache] HIT  33b366e9af99 (2 finding(s) reused, no NPU call)
+2026-09-22 22:37:51 [INFO   ] [commit=-] coderx: Logging initialized — level=INFO, file=D:\CoderX\CoderX\backend\logs\coderx.log
+2026-09-22 22:37:51 [INFO   ] [commit=34d65a0] coderx.review_session: New review session started (commit=34d65a0).
+2026-09-22 22:37:51 [INFO   ] [commit=34d65a0] coderx.review_cache: [cache] HIT  33b366e9af99 (2 finding(s) reused, no NPU call)
+2026-09-22 22:37:51 [INFO   ] [commit=34d65a0] coderx.review_session: New review session started (commit=34d65a0).
+2026-09-22 22:37:51 [INFO   ] [commit=34d65a0] coderx.review_cache: [cache] HIT  33b366e9af99 (2 finding(s) reused, no NPU call)
+2026-09-22 22:41:32 [INFO   ] [commit=-] coderx: Logging initialized — level=INFO, file=D:\CoderX\CoderX\backend\logs\coderx.log
+2026-09-22 22:41:33 [INFO   ] [commit=fdb4048] coderx.review_session: New review session started (commit=fdb4048).
+2026-09-22 22:41:33 [INFO   ] [commit=fdb4048] coderx.review_cache: [cache] HIT  33b366e9af99 (2 finding(s) reused, no NPU call)
+2026-09-22 22:41:33 [INFO   ] [commit=fdb4048] coderx.review_session: New review session started (commit=fdb4048).
+2026-09-22 22:41:33 [INFO   ] [commit=fdb4048] coderx.review_cache: [cache] HIT  33b366e9af99 (2 finding(s) reused, no NPU call)
+2026-09-22 22:42:38 [INFO   ] [commit=-] coderx: Logging initialized — level=INFO, file=D:\CoderX\CoderX\backend\logs\coderx.log
+2026-09-22 22:42:38 [INFO   ] [commit=7a4f564] coderx.review_session: New review session started (commit=7a4f564).
+2026-09-22 22:42:38 [INFO   ] [commit=7a4f564] coderx.review_cache: [cache] HIT  33b366e9af99 (2 finding(s) reused, no NPU call)
+2026-09-22 22:42:38 [INFO   ] [commit=7a4f564] coderx.review_session: New review session started (commit=7a4f564).
+2026-09-22 22:42:38 [INFO   ] [commit=7a4f564] coderx.review_cache: [cache] HIT  33b366e9af99 (2 finding(s) reused, no NPU call)
