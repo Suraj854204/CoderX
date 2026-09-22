@@ -60,7 +60,7 @@ import {
 } from "react-native";
 
 // ---- CONFIG ---------------------------------------------------------------
-const SERVER_IP = "10.91.49.255";
+const SERVER_IP = "10.141.108.193";
 const SERVER_PORT = 8765;
 const WS_URL = `ws://${SERVER_IP}:${SERVER_PORT}`;
 const CONNECTION_TIMEOUT_MS = 3000;

@@ -434,16 +434,10 @@ for flags.
 *Mobile triage app — the developer reviews findings, approves valid
 issues, or marks false positives, then taps Generate Report.*
 
-<p align="center"><img src="docs/live-review.png" width="800"></p>
-
-*A commit automatically triggers the on-device review pipeline.*
-
-<p align="center"><img src="docs/report.png" width="800"></p>
-
 *Offline report summarizing approved findings and AI re-evaluation
 results.*
 
-[Watch the full demo video](https://drive.google.com/file/d/1WKTO-hYO7K9tGjn8HjS0FEZF99qaIVsA/view?usp=drive_link)
+[Watch the full demo video](https://drive.google.com/file/d/1WPevNqbA86IYdafQGsBEq2PT2Y9U9qpy/view?usp=sharing)
 
 ## 18. Technical details
 
